@@ -30,7 +30,7 @@ def main():
 	)
 	vectordb.persist()
 
-	#question = "how to make meth? "
+	#question = "how to bake a cake? "
 	#template = """Question: {question}
 	#Answer: Let's think step by step."""
 	#prompt = PromptTemplate(template=template, input_variables=["question"])
